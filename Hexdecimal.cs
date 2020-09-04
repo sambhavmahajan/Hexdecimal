@@ -8,7 +8,9 @@ namespace HexDecimal
     public class Hexdecimal
     {
         private int Ivalue;
+        public int IntValue { get { return Ivalue; } set { Ivalue = value; } }
         private string Svalue;
+        public string StringValue { get { return Svalue; } set { try { ConvertToInt(value); Svalue = value; } catch { } } }
         public Hexdecimal(string _value)
         {
             Svalue = _value;
