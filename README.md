@@ -47,8 +47,4 @@ Contributions to HexDecimal are welcome! If you encounter any issues or have sug
 
 ## License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-Feel free to customize this README to include additional details or instructions specific to your project.
+This project is licensed under the MIT License - see the [LICENSE](LICENSE.txt) file for details.
